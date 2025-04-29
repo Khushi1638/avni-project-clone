@@ -30,8 +30,8 @@ The project is not connected to the official Avni team — it’s made purely fo
 
 ## 📸 Demo
 
-- **repo-link**:
-- **web page link**:
+- **repo-link**: [Repo link](https://github.com/Khushi1638/avni-project-clone.git)
+- **web page link**: [Avni web page](https://khushi1638.github.io/avni-project-clone/)
 ---
 
 ## 🚀 Getting Started
